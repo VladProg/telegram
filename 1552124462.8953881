@@ -1,0 +1,1 @@
+: return min(c-1, r)+sol(s-5*min(c-1, r), a, b, c-min(c-1, r));
